@@ -2,7 +2,7 @@
 
 # 缠论游击战法
 
-<div style="text-align:center;"><small>主题：<a href="dark.html">暗黑</a></small></div>
+<div style="text-align:center;"><small>主题：<a href="index.html">明亮</a></small></div>
 
 <style>p:not(.md-toc-content){text-indent:2rem;}blockquote p{text-indent:0rem !important;}blockquote,img{margin-left:2rem;}</style>
 
